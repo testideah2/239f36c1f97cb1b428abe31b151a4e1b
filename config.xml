@@ -3,11 +3,11 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "wischenbart-markus.us"
+        id          = "app.wischenbartmarkus.us"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. wischenbart-markus.us</name>
+    <name>wischenbart-markus.us</name>
 
     <description>
         Entdecken Sie die Welt mit unserer News-Site. Erstellen Sie Ihr Blog und teilen Sie Informationen mit 1.000.000 Benutzern
